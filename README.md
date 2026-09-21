@@ -1,7 +1,10 @@
 # Rafeeq Mini Labs · لابات رفيق المصغّر
-## Instructor · تطبيق
+## Implementation  · تطبيق
 
 **Mona Al-Aamri · منى العمري**
+
+[SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
+
 [![Release candidate](https://img.shields.io/badge/release-0.9.0--rc3-0f766e)](CHANGELOG.md)
 [![Learner portal](https://img.shields.io/badge/learner_portal-live-31bad7)](https://almiyead-rgb.github.io/rafeeq-agentic-ai-labs/)
 [![Reference results](https://img.shields.io/badge/reference_results-compare-7c3aed)](https://almiyead-rgb.github.io/rafeeq-agentic-ai-labs/compare.html)
