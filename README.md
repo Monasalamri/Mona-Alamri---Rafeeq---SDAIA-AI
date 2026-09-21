@@ -1,7 +1,7 @@
 # Rafeeq Mini Labs · لابات رفيق المصغّر
 ## Implementation  · تطبيق
 
-**Mona Al-Aamri · منى العمري**
+**Mona Alamri · منى العمري**
 
 [SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
 
