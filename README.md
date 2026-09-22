@@ -56,34 +56,6 @@ The notebook contains exactly 30 named sections and 14 short learner TODOs. The 
 
 يحتوي الدفتر على 30 قسمًا مسمى و14 مهمة قصيرة فقط للمتدرب. أما الباقي فهو بنية تشغيلية واختبارات وتلميحات وتوليد أدلة. لا يتضمن المستودع مفاتيح إجابة أو تقييمات خفية أو درجات أو نقاط استعادة للمدربة.
 
-## SDAIA administrative requirements · متطلبات سدايا الإدارية
-
-The project is the complete course assessment (`100/100`). The existing
-15-point GitHub-delivery area contains **10 points for SDAIA administrative
-requirements** and **5 points for technical delivery evidence**; nothing is
-added above 100.
-
-المشروع هو تقييم الدورة كاملًا (`100/100`). يتضمن محور تسليم GitHub الحالي
-من 15 درجة **10 درجات لمتطلبات سدايا الإدارية** و**5 درجات لأدلة التسليم
-التقني**؛ ولا تضاف أي درجة فوق 100.
-
-| Assessed requirement · المتطلب المقيم | Points · الدرجة |
-|---|---:|
-| Clear, comprehensive repository description · وصف واضح وشامل للمستودع | 2 |
-| Professional README: idea, run, and use · README احترافي: الفكرة والتشغيل والاستخدام | 2 |
-| Appropriate linked technical documentation · توثيق فني مناسب ومترابط | 2 |
-| Meaningful, safe Git version history · سجل Git آمن وذو معنى | 2 |
-| Training-program reference · الإشارة إلى البرنامج التدريبي | 1 |
-| Working [SDAIA Academy GitHub](https://github.com/SDAIAAcademy) link · رابط أكاديمية سدايا الصحيح | 1 |
-| **Administrative subtotal · المجموع الإداري** | **10** |
-
-Read the [full administrative evidence standard and safe daily Git path](docs/SDAIA_ADMIN_REQUIREMENTS.md). The SDAIA course-evaluation link is shared at the start of the final day and completed through the designated private channel; it has no project points, and its responses or screenshots never belong in GitHub. Stars, Follow, open-source contributions, Fork, Pull Requests, Issues, and community sharing are encouraged only when appropriate and are **not graded**.
-
-راجع [معيار الأدلة الإدارية ومسار Git اليومي الآمن](docs/SDAIA_ADMIN_REQUIREMENTS.md). يشارك رابط تقييم الدورة في بداية اليوم الأخير ويستكمل عبر القناة الخاصة المحددة؛ ولا يحمل درجات للمشروع، ولا تنشر إجاباته أو لقطاته في GitHub. أما Stars وFollow والمساهمات مفتوحة المصدر وFork وPull Requests وIssues والمشاركة المجتمعية فهي تشجيعية عند ملاءمتها و**غير مقيمة**.
-
-
-للسؤال التقني العام والمنقح افتح [نموذج مساعدة اللاب الثنائي](https://github.com/almiyead-rgb/rafeeq-agentic-ai-labs/issues/new?template=lab-help.yml). لا تستخدمه لبيانات دخول أو ثغرة أو رابط خاص أو بيانات شخصية أو اعتراض على درجة أو تفاصيل تسليم خاصة؛ اتبع [SECURITY.md](SECURITY.md) وقناة المدربة الخاصة بدلًا منه.
-
 ## Repository map · خريطة المستودع
 
 | Path | Purpose · الغرض |
