@@ -19,24 +19,6 @@
 >
 > مرشح الإصدار `0.9.0-rc3`: اكتملت فحوص المستودع وCI وPages الآلية، وتبقى تجربة القبول البشرية في Colab بحساب نظيف. ابدأ من [بوابة المتدرب الثنائية اللغة](https://almiyead-rgb.github.io/rafeeq-agentic-ai-labs/). يعمل المسار الإلزامي على Colab المجاني وCPU، بالوضع `LLM_MODE=stub` وبيانات مصطنعة، بلا مفتاح API أو GPU أو طرفية أو PAT أو خدمة مدفوعة.
 
-## Start · ابدأ
-
-### [Open Rafeeq Mini in Google Colab · افتح رفيق المصغّر في كولاب](https://colab.research.google.com/github/almiyead-rgb/rafeeq-agentic-ai-labs/blob/v0.9.0-rc3/notebooks/Rafeeq_Mini_Capstone.ipynb)
-
-Detailed beginner instructions are in [the learner guide](docs/learner-guide.md). If the runtime disconnects, follow [the recovery guide](recovery/README.md); you do not need to restart the whole project.
-
-توجد تعليمات المبتدئ المفصلة في [دليل المتدرب](docs/learner-guide.md). وإذا انقطعت بيئة التشغيل، فاتبع [دليل الاستعادة](recovery/README.md)؛ لا تحتاج إلى إعادة المشروع كله.
-
-Use the instructor-assigned `learner_id` or your GitHub username in public files. Put your real name, email, phone number, national ID, or other identifying information only in the private hand-in form provided by the instructor.
-
-استخدم `learner_id` الذي تقدمه المدربة أو اسم مستخدم GitHub داخل الملفات العامة. ضع الاسم الحقيقي أو البريد أو رقم الهاتف أو الهوية الوطنية أو أي بيانات تعريفية أخرى في نموذج التسليم الخاص الذي تقدمه المدربة فقط.
-
-If an employer or institutional policy prevents a public repository, notify the instructor before Day 1 and use only the instructor-approved private hand-in route; do not post a private repository link in a public issue.
-
-إذا منعت سياسة جهة العمل أو المؤسسة إنشاء مستودع عام، فأبلغ المدربة قبل اليوم الأول واستخدم مسار التسليم الخاص الذي تعتمده فقط، ولا تنشر رابط مستودع خاص في Issue عام.
-
-تفحص المقارنة السلوكيات الثابتة مثل نجاح البوابات، ومعرّفات الحالات، وقرارات السلامة، وحدود التنفيذ، والملفات المطلوبة. وتتجاهل عمدًا الطوابع الزمنية والمعرّفات المولدة والمسارات والبصمات والأحجام وزمن الاستجابة لأنها تختلف طبيعيًا بين تشغيل وآخر.
-
 ## Project scenario · سيناريو المشروع
 
 A customer contacts the fictional delivery company **Tawseel** in Arabic or English to ask about an order or request a refund. Rafeeq detects the intent and order ID, verifies ownership through a scoped tool, retrieves only the active policy, delegates to the correct specialist, and records a redacted trace. Refunds require a delay greater than two days; amounts above SAR 500 pause for explicit human approval. Re-running a write remains safe through deterministic idempotency.
